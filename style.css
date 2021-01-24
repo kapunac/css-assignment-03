@@ -122,7 +122,7 @@ body::before{
     max-width: 100%;
 }
 /* ************ MEDIA QUERIES ************ */
-@media only screen and (max-width: 62.3em) { 
+@media only screen and (max-width: 900px) { 
     .box p {
         transform: translateY(0);
         opacity: 1;
