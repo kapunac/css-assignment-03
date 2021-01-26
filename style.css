@@ -126,5 +126,5 @@ body::before{
     .box p {
         transform: translateY(0);
         opacity: 1;
-    }
-} /* REMOVES HOVER EFFECT FOR TABLETS AND PHONES */
+    } /* REMOVES HOVER EFFECT FOR TABLETS AND PHONES */
+} 
